@@ -23,5 +23,5 @@ Code is in main.ino file.
 
 ## Demo Video:
 Demo video is uploaded.
-
+// Circuit Connection picture also uploaded
 Thank you.
