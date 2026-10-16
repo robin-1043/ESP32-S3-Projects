@@ -19,7 +19,8 @@ Potentiometer is connected to GPIO 4. I read analog value (0-4095) from it. Then
  
 
 ## Code:
-Code is in main.ino file.
+Code is in Potentiometer_brightnessControll.ino
+ file.
 
 ## Demo Video:
 Demo video is uploaded.
